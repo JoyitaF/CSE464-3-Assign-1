@@ -1,16 +1,7 @@
-# planit
+# PlanIT
 
-A new Flutter project.
+A Flutter project that adds a temp task by clicking the add button and includes the real-time of the click.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Example:
+![Screenshot (833)](https://github.com/JoyitaF/CSE464-3-Assign-1/assets/115023961/1606dade-b39c-40d8-8d4d-5448172855ac)
+![Screenshot (839)](https://github.com/JoyitaF/CSE464-3-Assign-1/assets/115023961/c9da475f-6081-47b6-92b0-77eaa9a35fcd)
